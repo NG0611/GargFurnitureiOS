@@ -1,0 +1,14 @@
+# macOS / Xcode
+.DS_Store
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+
+# CocoaPods
+Pods/
+
+# Firebase
+GoogleService-Info.plist
+
+# Razorpay
+RazorpayHandler.swift
