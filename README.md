@@ -27,19 +27,19 @@ A modern **Furniture E-Commerce iOS application** built with **SwiftUI**, design
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="screenshots/screenshot1.png" width="200" />
-  <img src="screenshots/screenshot2.png" width="200" />
-  <img src="screenshots/screenshot3.png" width="200" />
+  <img src="screenshots/screenshot1.PNG" width="200" />
+  <img src="screenshots/screenshot2.PNG" width="200" />
+  <img src="screenshots/screenshot3.PNG" width="200" />
 </p>
 
 <p float="left">
-  <img src="screenshots/screenshot4.png" width="200" />
-  <img src="screenshots/screenshot5.png" width="200" />
-  <img src="screenshots/screenshot6.png" width="200" />
+  <img src="screenshots/screenshot4.PNG" width="200" />
+  <img src="screenshots/screenshot5.PNG" width="200" />
+  <img src="screenshots/screenshot6.PNG" width="200" />
 </p>
 
 <p float="left">
-  <img src="screenshots/screenshot7.png" width="200" />
+  <img src="screenshots/screenshot7.PNG" width="200" />
 </p>
 
 
